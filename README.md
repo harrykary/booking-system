@@ -130,5 +130,6 @@ When prompted with
 * To quit application
 
   `quit`
+  
   __Note:__ Once quit is executed Memory is cleared
 
